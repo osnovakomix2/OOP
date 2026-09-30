@@ -1,0 +1,5091 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-09-30T17:25:28Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/48787268",
+        "addr:housenumber": "30",
+        "addr:street": "Базовый переулок",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "brand:en": "Lukoil",
+        "brand:ru": "Лукойл",
+        "brand:wikidata": "Q329347",
+        "brand:wikipedia": "ru:Лукойл",
+        "building": "retail",
+        "compressed_air": "yes",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 800 1000911;+7 962 3102677",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66477",
+        "toilets": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.652807,
+          56.808399
+        ]
+      },
+      "id": "way/48787268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/103231091",
+        "addr:housenumber": "14А",
+        "addr:street": "улица Фронтовых Бригад",
+        "amenity": "fuel",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Газпромнефть",
+        "operator": "Газпромнефть",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6228098,
+          56.877852
+        ]
+      },
+      "id": "way/103231091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/109759217",
+        "amenity": "fuel",
+        "brand": "Башнефть",
+        "building": "yes",
+        "contact:phone": "+7 800 7757588",
+        "contact:website": "https://www.bashneft-azs.ru",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Башнефть",
+        "name:en": "Bashneft",
+        "name:ru": "Башнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Башнефть-Розница\"",
+        "ref": "66-021",
+        "shop": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.554637,
+          56.8751678
+        ]
+      },
+      "id": "way/109759217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/110750288",
+        "amenity": "fuel",
+        "brand": "Башнефть",
+        "building": "roof",
+        "building:levels": "1",
+        "compressed_air": "no",
+        "contact:phone": "+7 800 7757588",
+        "contact:website": "https://www.bashneft-azs.ru",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "layer": "1",
+        "name": "Башнефть",
+        "name:en": "Bashneft",
+        "name:ru": "Башнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Башнефть-Розница\"",
+        "ref": "66-015",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6378789,
+          56.8527502
+        ]
+      },
+      "id": "way/110750288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144966599",
+        "addr:housenumber": "1А к2",
+        "addr:street": "улица Лукиных",
+        "amenity": "fuel",
+        "building": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5754241,
+          56.880305
+        ]
+      },
+      "id": "way/144966599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/186406311",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "compressed_air": "no",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "142"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6883798,
+          56.8436618
+        ]
+      },
+      "id": "node/186406311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/367933598",
+        "addr:housenumber": "27Б",
+        "addr:street": "улица Машиностроителей",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "УралОил",
+        "source:addr": "ЕГРН",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5867521,
+          56.8851004
+        ]
+      },
+      "id": "way/367933598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368311569",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "compressed_air": "yes",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 800 1000911;+7 962 3102605",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "internet_access": "wlan",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66405",
+        "shop": "yes",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7414031,
+          56.7064112
+        ]
+      },
+      "id": "node/368311569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/420677010",
+        "addr:housenumber": "1",
+        "addr:street": "15 км, Серовский тракт",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "brand:wikidata": "Q1461799",
+        "building": "yes",
+        "building:levels": "1",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "73",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5099541,
+          56.9118953
+        ]
+      },
+      "id": "way/420677010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/423738494",
+        "addr:city": "Екатеринбург",
+        "addr:housenumber": "3",
+        "addr:street": "улица Соболева",
+        "amenity": "fuel",
+        "brand": "Нягань-Газ",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Нягань-Газ",
+        "website": "https://gazekb.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5169578,
+          56.8124361
+        ]
+      },
+      "id": "node/423738494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/430577182",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "compressed_air": "yes",
+        "contact:phone": "+7 800 1000911",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "internet_access": "wlan",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66419",
+        "shop": "yes",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5878621,
+          56.7608795
+        ]
+      },
+      "id": "node/430577182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/436174657",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "contact:phone": "+7 800 1000911",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66464"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5989512,
+          56.9131283
+        ]
+      },
+      "id": "node/436174657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/456726114",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "brand:wikidata": "Q1461799",
+        "brand:wikipedia": "ru:Газпром нефть",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5607945,
+          56.845583
+        ]
+      },
+      "id": "node/456726114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/461525303",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "brand:wikidata": "Q1461799",
+        "brand:wikipedia": "en:Gazprom Neft",
+        "compressed_air": "no",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6761639,
+          56.8425478
+        ]
+      },
+      "id": "node/461525303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/463190972",
+        "addr:housenumber": "8",
+        "addr:street": "улица Пехотинцев",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "brand:en": "Lukoil",
+        "brand:ru": "Лукойл",
+        "brand:wikidata": "Q329347",
+        "brand:wikipedia": "ru:Лукойл",
+        "contact:phone": "+7 800 1000911",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66475",
+        "shop": "yes",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5504032,
+          56.8701315
+        ]
+      },
+      "id": "node/463190972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/466973492",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5716703,
+          56.7916822
+        ]
+      },
+      "id": "node/466973492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/469180545",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "brand:en": "Lukoil",
+        "brand:ru": "Лукойл",
+        "brand:wikidata": "Q329347",
+        "brand:wikipedia": "ru:Лукойл",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 800 1000911;+7 962 3102667",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "full_service": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66467",
+        "self_service": "yes",
+        "shop": "convenience",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5075893,
+          56.8192876
+        ]
+      },
+      "id": "node/469180545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/469842529",
+        "amenity": "fuel",
+        "brand": "VARTA",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "VARTA",
+        "name:en": "VARTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.624259,
+          56.8164204
+        ]
+      },
+      "id": "node/469842529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/471730362",
+        "amenity": "fuel",
+        "brand": "Роснефть",
+        "brand:en": "Rosneft",
+        "brand:ru": "Роснефть",
+        "cafe": "yes",
+        "contact:phone": "+7 800 7757588",
+        "contact:website": "https://rosneft-azs.ru",
+        "fuel:diesel": "yes",
+        "fuel:discount": "Семейная команда",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Роснефть",
+        "name:en": "Rosneft",
+        "name:ru": "Роснефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Башнефть-Розница\"",
+        "ref": "66-001",
+        "shop": "yes",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6393631,
+          56.8384876
+        ]
+      },
+      "id": "node/471730362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/474645658",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.560217,
+          56.8247199
+        ]
+      },
+      "id": "node/474645658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/475876247",
+        "amenity": "fuel",
+        "brand": "Башнефть",
+        "contact:phone": "+7 800 7757588",
+        "contact:website": "https://www.bashneft-azs.ru",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Башнефть",
+        "name:en": "Bashneft",
+        "name:ru": "Башнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Башнефть-Розница\"",
+        "ref": "66-013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5520165,
+          56.8217071
+        ]
+      },
+      "id": "node/475876247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/491031557",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "compressed_air": "yes",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 800 1000911;+7 962 3102647",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "internet_access": "wlan",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66447",
+        "shop": "yes",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5525123,
+          56.8139604
+        ]
+      },
+      "id": "node/491031557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/494273891",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "GetPetrol",
+        "name:en": "GetPetrol AZS",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6512145,
+          56.8047079
+        ]
+      },
+      "id": "node/494273891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/494789937",
+        "amenity": "fuel",
+        "name": "АЗС 21",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6208488,
+          56.8536068
+        ]
+      },
+      "id": "node/494789937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/508560103",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Tamik Energy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5853252,
+          56.8138613
+        ]
+      },
+      "id": "node/508560103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/534607431",
+        "amenity": "fuel",
+        "check_date": "2023-01-07",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "name": "Газпромнефть",
+        "operator": "Газпром нефть",
+        "website": "https://www.gazprom-neft.ru/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7244419,
+          56.772904
+        ]
+      },
+      "id": "node/534607431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/536716833",
+        "addr:housenumber": "2К",
+        "addr:street": "улица Бахчиванджи",
+        "amenity": "fuel",
+        "brand": "Нагянь-Газ",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Нагянь-Газ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.8065117,
+          56.7633793
+        ]
+      },
+      "id": "node/536716833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/548486718",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 800 1000911;+7 962 3102642",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66442",
+        "shop": "yes",
+        "toilets": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5952322,
+          56.7968621
+        ]
+      },
+      "id": "node/548486718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/548486727",
+        "addr:city": "Екатеринбург",
+        "addr:housenumber": "283",
+        "addr:street": "Московская улица",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5964206,
+          56.7985526
+        ]
+      },
+      "id": "node/548486727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/568020047",
+        "addr:housenumber": "183А",
+        "addr:street": "улица 8 Марта",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "compressed_air": "yes",
+        "contact:phone": "+7 800 1000911",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66469",
+        "shop": "yes",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6124748,
+          56.7988334
+        ]
+      },
+      "id": "node/568020047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/577462272",
+        "amenity": "fuel",
+        "name": "Лик",
+        "operator": "Лик"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.8661544,
+          56.7717718
+        ]
+      },
+      "id": "node/577462272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/577462273",
+        "addr:city": "Екатеринбург",
+        "addr:housenumber": "1",
+        "addr:place": "Сибирский тракт, 21-й километр",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "brand:wikidata": "Q1461799",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.8670827,
+          56.7717735
+        ]
+      },
+      "id": "node/577462273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/585205835",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Ликойл",
+        "operator": "СтройТрансИнвест"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5215066,
+          56.8806708
+        ]
+      },
+      "id": "node/585205835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/588391449",
+        "addr:housenumber": "1",
+        "addr:street": "Ново-Московский тракт",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "brand:wikidata": "Q1461799",
+        "brand:wikipedia": "en:Gazprom Neft",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.4681777,
+          56.8262424
+        ]
+      },
+      "id": "node/588391449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/588391450",
+        "addr:city": "Екатеринбург",
+        "addr:housenumber": "2",
+        "addr:place": "10-й километр Московского тракта",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "brand:wikidata": "Q1461799",
+        "brand:wikipedia": "en:Gazprom Neft",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.4680441,
+          56.8243707
+        ]
+      },
+      "id": "node/588391450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/600076807",
+        "addr:housenumber": "5",
+        "addr:street": "улица Машиностроителей",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "compressed_air": "no",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 800 1000911;+7 962 3102668",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66468"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6081366,
+          56.8867083
+        ]
+      },
+      "id": "node/600076807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/612497479",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.607103,
+          56.7871043
+        ]
+      },
+      "id": "node/612497479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/617979426",
+        "amenity": "fuel",
+        "brand": "Татнефть",
+        "contact:phone": "+7 800 5555911",
+        "contact:website": "https://azs.tatneft.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Татнефть",
+        "name:en": "Tatneft",
+        "name:ru": "Татнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Татнефть-АЗС Центр\"",
+        "ref": "325"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6338399,
+          56.8174704
+        ]
+      },
+      "id": "node/617979426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/619677054",
+        "addr:housenumber": "1А",
+        "addr:street": "улица Маяковского",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "brand:en": "Lukoil",
+        "brand:ru": "Лукойл",
+        "brand:wikidata": "Q329347",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 800 1000911;+7 962 3102654",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66454",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6139712,
+          56.8606943
+        ]
+      },
+      "id": "node/619677054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/619683254",
+        "amenity": "fuel",
+        "name": "ТНК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.830501,
+          56.754798
+        ]
+      },
+      "id": "node/619683254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/619713752",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "contact:phone": "+7 800 1000911",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66439",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6912837,
+          56.8128868
+        ]
+      },
+      "id": "node/619713752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/623043346",
+        "amenity": "fuel",
+        "fuel:cng": "yes",
+        "name": "Газпром АГНКС-3",
+        "opening_hours": "24/7",
+        "operator": "ООО Газпром газомоторное топливо",
+        "source": "http://www.uralavtogaz.ru",
+        "website": "https://gazprom-agnks.ru/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7340859,
+          56.7867827
+        ]
+      },
+      "id": "node/623043346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/630889791",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "brand:wikidata": "Q1461799",
+        "brand:wikipedia": "en:Gazprom Neft",
+        "compressed_air": "yes",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6697775,
+          56.8483955
+        ]
+      },
+      "id": "node/630889791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/633593344",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5775399,
+          56.9150039
+        ]
+      },
+      "id": "node/633593344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/635759361",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "contact:phone": "+7 800 1000911",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66476"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7326664,
+          56.787403
+        ]
+      },
+      "id": "node/635759361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/644610957",
+        "addr:city": "Екатеринбург",
+        "addr:housenumber": "1В",
+        "addr:street": "улица Академика Павлова",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "brand:wikidata": "Q1461799",
+        "check_date": "2023-01-07",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6685594,
+          56.7901131
+        ]
+      },
+      "id": "node/644610957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/650013474",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "АТОМ-ОЙЛ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7263413,
+          56.7590088
+        ]
+      },
+      "id": "node/650013474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/666909934",
+        "amenity": "fuel",
+        "brand": "Роснефть",
+        "brand:en": "Rosneft",
+        "brand:ru": "Роснефть",
+        "brand:wikidata": "Q1141123",
+        "cafe": "yes",
+        "contact:phone": "+7 800 7757588",
+        "contact:website": "https://rosneft-azs.ru",
+        "fuel:diesel": "yes",
+        "fuel:discount": "Семейная команда",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Роснефть",
+        "name:en": "Rosneft",
+        "name:ru": "Роснефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Башнефть-Розница\"",
+        "ref": "66-002",
+        "shop": "yes",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6745395,
+          56.8609604
+        ]
+      },
+      "id": "node/666909934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/669980227",
+        "amenity": "fuel",
+        "brand": "Башнефть",
+        "brand:en": "Bashneft",
+        "brand:wikidata": "Q809985",
+        "contact:phone": "+7 800 7757588",
+        "contact:website": "https://www.bashneft-azs.ru",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Башнефть",
+        "name:en": "Bashneft",
+        "name:ru": "Башнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Башнефть-Розница\"",
+        "ref": "66-017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6127705,
+          56.8625604
+        ]
+      },
+      "id": "node/669980227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/694130844",
+        "addr:housenumber": "53",
+        "addr:street": "улица Февральской Революции",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "brand:wikidata": "Q1461799",
+        "brand:wikipedia": "en:Gazprom Neft",
+        "check_date": "2023-01-06",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "phone:RU": "8 800 7005151",
+        "ref": "141",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5853242,
+          56.8439883
+        ]
+      },
+      "id": "node/694130844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/707134927",
+        "amenity": "fuel",
+        "brand": "Башнефть",
+        "brand:en": "Bashneft",
+        "brand:wikidata": "Q809985",
+        "contact:phone": "+7 800 7757588",
+        "contact:website": "https://www.bashneft-azs.ru",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Башнефть",
+        "name:en": "Bashneft",
+        "name:ru": "Башнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Башнефть-Розница\"",
+        "ref": "66-019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.592064,
+          56.808658
+        ]
+      },
+      "id": "node/707134927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/737749252",
+        "addr:housenumber": "3",
+        "addr:street": "Дружининская улица",
+        "amenity": "fuel",
+        "brand": "GGroup",
+        "fuel:lpg": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5081668,
+          56.8850727
+        ]
+      },
+      "id": "node/737749252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/755626060",
+        "amenity": "fuel",
+        "brand": "Башнефть",
+        "brand:en": "Bashneft",
+        "brand:wikidata": "Q809985",
+        "brand:wikipedia": "en:Bashneft",
+        "contact:phone": "+7 800 7757588",
+        "contact:website": "https://www.bashneft-azs.ru",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Башнефть",
+        "name:en": "Bashneft",
+        "name:ru": "Башнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Башнефть-Розница\"",
+        "ref": "66-016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5466449,
+          56.8669601
+        ]
+      },
+      "id": "node/755626060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/755626082",
+        "amenity": "fuel",
+        "brand": "Башнефть",
+        "brand:en": "Bashneft",
+        "brand:wikidata": "Q809985",
+        "brand:wikipedia": "en:Bashneft",
+        "compressed_air": "no",
+        "contact:phone": "+7 800 7757588",
+        "contact:website": "https://www.bashneft-azs.ru",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Башнефть",
+        "name:en": "Bashneft",
+        "name:ru": "Башнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Башнефть-Розница\"",
+        "ref": "66-011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6808048,
+          56.8355142
+        ]
+      },
+      "id": "node/755626082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/774195367",
+        "addr:housenumber": "3А/1",
+        "addr:street": "улица Академика Вонсовского",
+        "amenity": "fuel",
+        "brand": "Газпром",
+        "building": "yes",
+        "fuel:cng": "yes",
+        "name": "Газпром АГНКС-4",
+        "opening_hours": "Mo-Su 00:00-01:00, 01:15-05:00, 05:15-07:50, 08:10-11:30, 11:45-17:30, 17:45-19:50, 20:10-24:00",
+        "operator": "ООО Газпром газомоторное топливо",
+        "website": "https://gazprom-agnks.ru",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5597882,
+          56.77726
+        ]
+      },
+      "id": "way/774195367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/778825285",
+        "amenity": "fuel",
+        "brand": "Independent",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6738545,
+          56.8316766
+        ]
+      },
+      "id": "node/778825285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/790029878",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:GTL_diesel": "yes",
+        "fuel:HGV_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "137"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5448688,
+          56.8021218
+        ]
+      },
+      "id": "node/790029878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/833052330",
+        "amenity": "fuel",
+        "brand": "Нягань-Газ",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_92": "yes",
+        "name": "Нягань-Газ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6663877,
+          56.8298516
+        ]
+      },
+      "id": "node/833052330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/835035704",
+        "addr:housenumber": "17Д",
+        "addr:street": "проспект Космонавтов",
+        "amenity": "fuel",
+        "name": "Varta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.61,
+          56.8763464
+        ]
+      },
+      "id": "node/835035704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/850625966",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "GGroup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6314043,
+          56.7963973
+        ]
+      },
+      "id": "node/850625966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/850625968",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 800 1000911;+7 962 3102643",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66443",
+        "self_service": "only"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6416961,
+          56.79297
+        ]
+      },
+      "id": "node/850625968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/853148322",
+        "alt_name": "Эрго",
+        "amenity": "fuel",
+        "brand": "Башнефть",
+        "contact:phone": "+7 800 7757588",
+        "contact:website": "https://www.bashneft-azs.ru",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Башнефть",
+        "name:en": "Bashneft",
+        "name:ru": "Башнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Башнефть-Розница\"",
+        "ref": "66-020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6126503,
+          56.7956625
+        ]
+      },
+      "id": "node/853148322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/853404440",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "brand:wikidata": "Q1461799",
+        "brand:wikipedia": "en:Gazprom Neft",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6455938,
+          56.7908772
+        ]
+      },
+      "id": "node/853404440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/856180821",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "check_date": "2023-01-07",
+        "compressed_air": "yes",
+        "contact:phone": "+7 800 1000911",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66449",
+        "shop": "yes",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6763302,
+          56.7890752
+        ]
+      },
+      "id": "node/856180821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/884258307",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "compressed_air": "yes",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 800 1000911;+7 922 1374455",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "internet_access": "wlan",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66455",
+        "shop": "yes",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6690841,
+          56.9407542
+        ]
+      },
+      "id": "node/884258307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/886695177",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 800 1000911;+7 962 3102641",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66441",
+        "shop": "kiosk",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6624137,
+          56.8358685
+        ]
+      },
+      "id": "node/886695177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/903704785",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "brand:en": "Lukoil",
+        "brand:ru": "Лукойл",
+        "brand:wikidata": "Q329347",
+        "brand:wikipedia": "ru:Лукойл",
+        "compressed_air": "yes",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 800 1000911;+7 962 3102673",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66473",
+        "shop": "kiosk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5520133,
+          56.8546739
+        ]
+      },
+      "id": "node/903704785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/911708897",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "brand:en": "Lukoil",
+        "brand:ru": "Лукойл",
+        "brand:wikidata": "Q329347",
+        "brand:wikipedia": "ru:Лукойл",
+        "compressed_air": "yes",
+        "contact:phone": "+7 800 1000911",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "internet_access": "wlan",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66463",
+        "shop": "yes",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6277521,
+          56.7583879
+        ]
+      },
+      "id": "node/911708897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/911708926",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "brand:en": "Lukoil",
+        "brand:ru": "Лукойл",
+        "brand:wikidata": "Q329347",
+        "brand:wikipedia": "ru:Лукойл",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 343 2531408;+7 800 1000911;+7 912 2600034",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66433"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5373054,
+          56.8181801
+        ]
+      },
+      "id": "node/911708926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/911708939",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 800 1000911;+7 962 3102646",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66446"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.664079,
+          56.7758638
+        ]
+      },
+      "id": "node/911708939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/913068516",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7219471,
+          56.8052184
+        ]
+      },
+      "id": "node/913068516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/913068529",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_80": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "Газпром нефть",
+        "website": "https://www.gazprom-neft.ru/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5288086,
+          56.8874223
+        ]
+      },
+      "id": "node/913068529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/913068535",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "138"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5270351,
+          56.8326651
+        ]
+      },
+      "id": "node/913068535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/913068583",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_80": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5577847,
+          56.8489114
+        ]
+      },
+      "id": "node/913068583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/913068608",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6627931,
+          56.8595997
+        ]
+      },
+      "id": "node/913068608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/913068632",
+        "addr:city": "Екатеринбург",
+        "addr:housenumber": "91",
+        "addr:street": "улица Блюхера",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "brand:en": "Lukoil",
+        "brand:ru": "Лукойл",
+        "brand:wikidata": "Q329347",
+        "compressed_air": "yes",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 800 1000911;+7 962 3102644",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66498"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6647103,
+          56.8632972
+        ]
+      },
+      "id": "node/913068632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/913068640",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "brand:wikidata": "Q1461799",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7143753,
+          56.8205972
+        ]
+      },
+      "id": "node/913068640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/932546647",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "brand:wikidata": "Q1461799",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_80": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "16",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6138347,
+          56.8647
+        ]
+      },
+      "id": "node/932546647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/953871852",
+        "amenity": "fuel",
+        "brand": "Татнефть",
+        "contact:phone": "+7 800 5555911",
+        "contact:website": "https://azs.tatneft.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "name": "Татнефть",
+        "name:en": "Tatneft",
+        "name:ru": "Татнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Татнефть-АЗС Центр\"",
+        "ref": "266"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6929,
+          56.8240791
+        ]
+      },
+      "id": "node/953871852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/967064612",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.549669,
+          56.7717148
+        ]
+      },
+      "id": "node/967064612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/979316261",
+        "addr:housenumber": "7А",
+        "addr:street": "улица Ткачей",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "brand:wikidata": "Q1461799",
+        "brand:wikipedia": "en:Gazprom Neft",
+        "contact:email": "opti-info@yandex.ru",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://www.azs-opti.ru",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Опти",
+        "name:en": "Opti",
+        "name:ru": "Опти",
+        "opening_hours": "24/7",
+        "operator": "Газпром"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6370064,
+          56.8182824
+        ]
+      },
+      "id": "node/979316261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/992362178",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "brand:wikidata": "Q1461799",
+        "brand:wikipedia": "en:Gazprom Neft",
+        "check_date": "2026-05-08",
+        "compressed_air": "no",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "145",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6069973,
+          56.82365
+        ]
+      },
+      "id": "node/992362178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1021334208",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "brand:wikidata": "Q1461799",
+        "brand:wikipedia": "en:Gazprom Neft",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "101",
+        "self_service": "yes",
+        "shop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5490684,
+          56.8817452
+        ]
+      },
+      "id": "node/1021334208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1038072314",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "compressed_air": "yes",
+        "contact:phone": "+7 800 1000911",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "internet_access": "wlan",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66461",
+        "shop": "yes",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.731722,
+          56.8874883
+        ]
+      },
+      "id": "node/1038072314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1038072588",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "compressed_air": "yes",
+        "contact:phone": "+7 800 1000911",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "internet_access": "wlan",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66459",
+        "shop": "yes",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7320788,
+          56.8892575
+        ]
+      },
+      "id": "node/1038072588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1070962206",
+        "amenity": "fuel",
+        "brand": "Башнефть",
+        "brand:en": "Bashneft",
+        "brand:wikidata": "Q809985",
+        "brand:wikipedia": "en:Bashneft",
+        "contact:phone": "+7 800 7757588",
+        "contact:website": "https://www.bashneft-azs.ru",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Башнефть",
+        "name:en": "Bashneft",
+        "name:ru": "Башнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Башнефть-Розница\"",
+        "ref": "66-018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5544413,
+          56.8542835
+        ]
+      },
+      "id": "node/1070962206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1081735964",
+        "amenity": "fuel",
+        "brand": "Башнефть",
+        "contact:phone": "+7 800 7757588",
+        "contact:website": "https://www.bashneft-azs.ru",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Башнефть",
+        "name:en": "Bashneft",
+        "name:ru": "Башнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Башнефть-Розница\"",
+        "ref": "66-014",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5865597,
+          56.8012329
+        ]
+      },
+      "id": "node/1081735964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1104252233",
+        "addr:housenumber": "12",
+        "addr:street": "Промышленный проезд",
+        "amenity": "fuel",
+        "fuel:cng": "yes",
+        "name": "Газпром АГНКС-2",
+        "opening_hours": "24/7",
+        "operator": "ООО Газпром газомоторное топливо",
+        "source": "http://www.uralavtogaz.ru",
+        "website": "https://gazprom-agnks.ru/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6745269,
+          56.8791012
+        ]
+      },
+      "id": "node/1104252233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1104252234",
+        "addr:housenumber": "10",
+        "addr:street": "переулок Энергетиков",
+        "amenity": "fuel",
+        "fuel:cng": "yes",
+        "name": "Газпром АГНКС-1",
+        "opening_hours": "24/7",
+        "operator": "ООО Газпром газомоторное топливо",
+        "source": "http://www.uralavtogaz.ru",
+        "website": "https://gazprom-agnks.ru/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5916508,
+          56.7493412
+        ]
+      },
+      "id": "node/1104252234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1107541731",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7043249,
+          56.7362711
+        ]
+      },
+      "id": "node/1107541731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1119594463",
+        "amenity": "fuel",
+        "brand": "ГАЗПРОМНЕФТЬ",
+        "compressed_air": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ОАО Газпромнефть-Урал",
+        "ref": "136",
+        "website": "https://www.gazprom-neft.ru/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7048877,
+          56.8236343
+        ]
+      },
+      "id": "node/1119594463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1150469462",
+        "addr:housenumber": "101Б",
+        "addr:street": "улица Амундсена",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "brand:wikidata": "Q1461799",
+        "brand:wikipedia": "en:Gazprom Neft",
+        "contact:email": "opti-info@yandex.ru",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://www.azs-opti.ru",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Опти",
+        "name:en": "Opti",
+        "name:ru": "Опти",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5595111,
+          56.7799508
+        ]
+      },
+      "id": "node/1150469462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1150922358",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_80": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.615387,
+          56.7693684
+        ]
+      },
+      "id": "node/1150922358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1169392143",
+        "amenity": "fuel",
+        "contact:email": "mail@caravan-oil.ru",
+        "contact:phone": "+7 343 3011000;+7 343 3835590",
+        "contact:website": "https://caravan-oil.ru",
+        "name": "Caravan",
+        "opening_hours": "24/7",
+        "operator": "ООО ТК ГСМ-Маркет"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6684273,
+          56.8760136
+        ]
+      },
+      "id": "node/1169392143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1183085412",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Урал",
+        "operator": "Нягань-Газ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6272791,
+          56.7675431
+        ]
+      },
+      "id": "node/1183085412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1189345602",
+        "amenity": "fuel",
+        "brand": "GGroup",
+        "fuel:lpg": "yes",
+        "name": "GGroup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6311711,
+          56.772949
+        ]
+      },
+      "id": "node/1189345602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1200692591",
+        "amenity": "fuel",
+        "brand": "Нягань-Газ",
+        "description": "Есть шиномонтаж, автосервис",
+        "fuel:lpg": "yes",
+        "name": "Нягань-Газ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6671318,
+          56.8878363
+        ]
+      },
+      "id": "node/1200692591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1224959536",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "7 ключей"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5425463,
+          56.8841849
+        ]
+      },
+      "id": "node/1224959536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1272059953",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "М-газ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6940612,
+          56.8239148
+        ]
+      },
+      "id": "node/1272059953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1353092218",
+        "amenity": "fuel",
+        "fuel:cng": "yes",
+        "fuel:lpg": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5059445,
+          56.8891033
+        ]
+      },
+      "id": "way/1353092218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1356837005",
+        "amenity": "fuel",
+        "brand": "Роснефть",
+        "brand:en": "Rosneft",
+        "brand:ru": "Роснефть",
+        "brand:wikidata": "Q1141123",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Роснефть",
+        "name:en": "Rosneft",
+        "name:ru": "Роснефть",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5053365,
+          56.826046
+        ]
+      },
+      "id": "node/1356837005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1379632719",
+        "addr:housenumber": "20",
+        "addr:street": "улица Архангела Михаила",
+        "amenity": "fuel",
+        "brand": "Oillab by RCC",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5111636,
+          56.8189478
+        ]
+      },
+      "id": "way/1379632719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1385723342",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "АГЗС Легион-Газ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6201293,
+          56.9113483
+        ]
+      },
+      "id": "node/1385723342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1388966972",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "brand:wikidata": "Q1461799",
+        "brand:wikipedia": "en:Gazprom Neft",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5666323,
+          56.825629
+        ]
+      },
+      "id": "node/1388966972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1392061410",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "check_date": "2023-01-07",
+        "compressed_air": "yes",
+        "contact:phone": "+7 800 1000911",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "internet_access": "wlan",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66448",
+        "shop": "yes",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7208016,
+          56.7724598
+        ]
+      },
+      "id": "node/1392061410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1407000426",
+        "addr:city": "Екатеринбург",
+        "addr:housenumber": "4В",
+        "addr:street": "улица Патриса Лумумбы",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "brand:wikidata": "Q1461799",
+        "brand:wikipedia": "en:Gazprom Neft",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6001648,
+          56.7722319
+        ]
+      },
+      "id": "node/1407000426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1415170622",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "check_date": "2026-06-06",
+        "compressed_air": "yes",
+        "contact:phone": "+7 800 1000911",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66488",
+        "shop": "yes",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7053378,
+          56.8219357
+        ]
+      },
+      "id": "node/1415170622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1463877630",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "brand:en": "Lukoil",
+        "brand:ru": "Лукойл",
+        "brand:wikidata": "Q329347",
+        "brand:wikipedia": "ru:Лукойл",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 800 1000911;+7 962 3102630",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66430",
+        "shop": "convenience",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6765259,
+          56.8300501
+        ]
+      },
+      "id": "node/1463877630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1490092401",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "compressed_air": "yes",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "40",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5923222,
+          56.8180582
+        ]
+      },
+      "id": "node/1490092401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1496454092",
+        "amenity": "fuel",
+        "brand": "Башнефть",
+        "contact:phone": "+7 800 7757588",
+        "contact:website": "https://www.bashneft-azs.ru",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Башнефть",
+        "name:en": "Bashneft",
+        "name:ru": "Башнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Башнефть-Розница\"",
+        "ref": "66-003",
+        "shop": "kiosk",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.726627,
+          56.7525641
+        ]
+      },
+      "id": "node/1496454092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1569326162",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "brand:wikidata": "Q329347",
+        "brand:wikipedia": "ru:Лукойл",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 800 1000911;+7 962 3102662",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66462",
+        "shop": "yes",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6189713,
+          56.7887844
+        ]
+      },
+      "id": "node/1569326162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1608208719",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 800 1000911;+7 962 3102628",
+        "contact:website": "https://lukoil.ru",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "Лукойл",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7006528,
+          56.8446157
+        ]
+      },
+      "id": "node/1608208719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1626508236",
+        "amenity": "fuel",
+        "brand": "Башнефть",
+        "contact:phone": "+7 800 7757588",
+        "contact:website": "https://www.bashneft-azs.ru",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Башнефть",
+        "name:en": "Bashneft",
+        "name:ru": "Башнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Башнефть-Розница\"",
+        "ref": "66-023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5460315,
+          56.7734804
+        ]
+      },
+      "id": "node/1626508236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1647278051",
+        "amenity": "fuel",
+        "contact:email": "opti-info@yandex.ru",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://www.azs-opti.ru",
+        "name": "Опти",
+        "name:en": "Opti",
+        "name:ru": "Опти",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5053259,
+          56.8888885
+        ]
+      },
+      "id": "node/1647278051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1660049125",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 800 1000911;+7 962 3102602",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5731863,
+          56.8928946
+        ]
+      },
+      "id": "node/1660049125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1712343719",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "РозТорГаз"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5787501,
+          56.8641703
+        ]
+      },
+      "id": "node/1712343719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1714462324",
+        "amenity": "fuel",
+        "brand": "BNP",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "BNP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6369775,
+          56.883687
+        ]
+      },
+      "id": "node/1714462324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1717523462",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "brand:wikidata": "Q1461799",
+        "brand:wikipedia": "en:Gazprom Neft",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_80": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6128207,
+          56.9128528
+        ]
+      },
+      "id": "node/1717523462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1770520367",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6523018,
+          56.8664079
+        ]
+      },
+      "id": "node/1770520367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1776815498",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6378982,
+          56.866895
+        ]
+      },
+      "id": "node/1776815498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1799248414",
+        "amenity": "fuel",
+        "name": "АЗК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7303785,
+          56.7591599
+        ]
+      },
+      "id": "node/1799248414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2014908167",
+        "amenity": "fuel",
+        "brand": "Formula 1",
+        "fuel:cng": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6163298,
+          56.9135224
+        ]
+      },
+      "id": "node/2014908167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2055549908",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "compressed_air": "yes",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 800 1000911;+7 962 3102637",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66437",
+        "shop": "yes",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5622391,
+          56.8268443
+        ]
+      },
+      "id": "node/2055549908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2070122887",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 800 1000911;+7 962 3102678",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66478",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5444749,
+          56.8022959
+        ]
+      },
+      "id": "node/2070122887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2357314037",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_80": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "УралОйл"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7270131,
+          56.7363978
+        ]
+      },
+      "id": "node/2357314037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2440028232",
+        "addr:housenumber": "37",
+        "addr:street": "Автомагистральная улица",
+        "amenity": "fuel",
+        "name": "Varta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5508106,
+          56.8786285
+        ]
+      },
+      "id": "node/2440028232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2451730570",
+        "amenity": "fuel",
+        "brand": "Башнефть",
+        "compressed_air": "no",
+        "contact:phone": "+7 800 7757588",
+        "contact:website": "https://www.bashneft-azs.ru",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Башнефть",
+        "name:en": "Bashneft",
+        "name:ru": "Башнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Башнефть-Розница\"",
+        "ref": "66-025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6135408,
+          56.9274908
+        ]
+      },
+      "id": "node/2451730570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2558925344",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 800 1000911;+7 962 3102645",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66445",
+        "shop": "yes",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6337443,
+          56.8825146
+        ]
+      },
+      "id": "node/2558925344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2814724646",
+        "addr:city": "Екатеринбург",
+        "addr:housenumber": "178А",
+        "addr:street": "улица Крауля",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "ГАЗЭКС"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5182101,
+          56.8308411
+        ]
+      },
+      "id": "node/2814724646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2826791591",
+        "amenity": "fuel",
+        "fuel:lpg": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5476305,
+          56.8788207
+        ]
+      },
+      "id": "node/2826791591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2841605825",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "Газтэк"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6136289,
+          56.8637694
+        ]
+      },
+      "id": "node/2841605825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2869920281",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "ЕКАТЕРИНБУРГГАЗ",
+        "operator": "ЕКАТЕРИНБУРГГАЗ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6604693,
+          56.8896234
+        ]
+      },
+      "id": "node/2869920281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2876122066",
+        "amenity": "fuel",
+        "contact:email": "mail@caravan-oil.ru",
+        "contact:phone": "+7 343 3011000;+7 343 3835590",
+        "contact:website": "https://caravan-oil.ru",
+        "fuel:lpg": "yes",
+        "name": "Caravan",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.8637748,
+          56.7721477
+        ]
+      },
+      "id": "node/2876122066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2879972990",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "GGroup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7394975,
+          56.7612529
+        ]
+      },
+      "id": "node/2879972990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3106309135",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "GGroup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6516466,
+          56.8048145
+        ]
+      },
+      "id": "node/3106309135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3183107541",
+        "amenity": "fuel",
+        "brand": "Нягань-Газ",
+        "fuel:lpg": "yes",
+        "name": "Нягань-Газ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6351997,
+          56.8684972
+        ]
+      },
+      "id": "node/3183107541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3202553823",
+        "amenity": "fuel",
+        "brand": "Башнефть",
+        "brand:en": "Bashneft",
+        "brand:wikidata": "Q809985",
+        "brand:wikipedia": "en:Bashneft",
+        "contact:phone": "+7 800 7757588",
+        "contact:website": "https://www.bashneft-azs.ru",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Башнефть",
+        "name:en": "Bashneft",
+        "name:ru": "Башнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Башнефть-Розница\"",
+        "ref": "66-034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5561214,
+          56.8786418
+        ]
+      },
+      "id": "node/3202553823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3227972420",
+        "amenity": "fuel",
+        "brand": "Башнефть",
+        "brand:wikipedia": "ru:Башнефть",
+        "contact:phone": "+7 800 7757588",
+        "contact:website": "https://www.bashneft-azs.ru",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Башнефть",
+        "name:en": "Bashneft",
+        "name:ru": "Башнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Башнефть-Розница\"",
+        "ref": "66-029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6608896,
+          56.778307
+        ]
+      },
+      "id": "node/3227972420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3361729008",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "GGroup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6381025,
+          56.8837069
+        ]
+      },
+      "id": "node/3361729008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3396126342",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 800 1000911;+7 962 3102656",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66456",
+        "shop": "yes",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6163327,
+          56.7884444
+        ]
+      },
+      "id": "node/3396126342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3748095715",
+        "amenity": "fuel",
+        "fuel:lpg": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6685251,
+          56.8758299
+        ]
+      },
+      "id": "node/3748095715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4079955164",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 800 1000911;+7 982 7201034",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "internet_access": "wlan",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66418",
+        "shop": "convenience",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5874515,
+          56.8176418
+        ]
+      },
+      "id": "node/4079955164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4245908607",
+        "amenity": "fuel",
+        "fuel:lpg": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.558109,
+          56.6850535
+        ]
+      },
+      "id": "node/4245908607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4566072323",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "brand:wikidata": "Q1461799",
+        "brand:wikipedia": "en:Gazprom Neft",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "156",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.632331,
+          56.845216
+        ]
+      },
+      "id": "node/4566072323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4566072324",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 800 1000911;+7 912 0313795",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "ref": "66458",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5955694,
+          56.7337647
+        ]
+      },
+      "id": "node/4566072324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4863709190",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6577066,
+          56.8215305
+        ]
+      },
+      "id": "node/4863709190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5053061909",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "brand:en": "Lukoil",
+        "brand:ru": "Лукойл",
+        "brand:wikidata": "Q329347",
+        "brand:wikipedia": "ru:Лукойл",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 800 1000911;+7 982 7201036",
+        "contact:website": "https://lukoil.ru",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5765636,
+          56.8562958
+        ]
+      },
+      "id": "node/5053061909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5382809147",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Varta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.629422,
+          56.7868529
+        ]
+      },
+      "id": "node/5382809147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5795294385",
+        "addr:city": "Екатеринбург",
+        "addr:housenumber": "87",
+        "addr:street": "улица Щербакова",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "ГАЗЭКС"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6637081,
+          56.7761654
+        ]
+      },
+      "id": "node/5795294385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6571795646",
+        "amenity": "fuel",
+        "fuel:lpg": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5780274,
+          56.6819677
+        ]
+      },
+      "id": "node/6571795646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7051471085",
+        "addr:housenumber": "1Б",
+        "addr:street": "Промышленный проезд",
+        "amenity": "fuel",
+        "brand": "ОПТИ",
+        "brand:wikidata": "Q109356512",
+        "brand:wikipedia": "en:Gazprom Neft",
+        "contact:email": "opti-info@yandex.ru",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://www.azs-opti.ru",
+        "name": "Опти",
+        "name:en": "Opti",
+        "name:ru": "Опти",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6655131,
+          56.8724913
+        ]
+      },
+      "id": "node/7051471085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7358717186",
+        "amenity": "fuel",
+        "name": "Mega"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6697163,
+          56.8692881
+        ]
+      },
+      "id": "node/7358717186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7702314088",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "brand:wikidata": "Q1461799",
+        "compressed_air": "yes",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_80": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "18",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6117761,
+          56.8603303
+        ]
+      },
+      "id": "node/7702314088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7797892960",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "GGroup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6123227,
+          56.7605843
+        ]
+      },
+      "id": "node/7797892960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7880437933",
+        "amenity": "fuel",
+        "brand": "Tamic energy",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Tamic energy",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7355332,
+          56.7856806
+        ]
+      },
+      "id": "node/7880437933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065721273",
+        "amenity": "fuel",
+        "contact:email": "ecogaz.agzs@yandex.ru",
+        "contact:phone": "+7 900 0450190;+7 922 2974993",
+        "contact:website": "https://ecogaz66.ru/",
+        "fuel:lpg": "yes",
+        "name": "Экогаз",
+        "opening_hours": "24/7",
+        "operator": "Экогаз"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.669698,
+          56.8690533
+        ]
+      },
+      "id": "node/8065721273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065721275",
+        "amenity": "fuel",
+        "contact:email": "ecogaz.agzs@yandex.ru",
+        "contact:phone": "+7 900 0450190;+7 922 2974993",
+        "contact:website": "https://ecogaz66.ru/",
+        "fuel:lpg": "yes",
+        "name": "Экогаз",
+        "opening_hours": "24/7",
+        "operator": "Экогаз"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.727176,
+          56.7359958
+        ]
+      },
+      "id": "node/8065721275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065721276",
+        "amenity": "fuel",
+        "contact:email": "ecogaz.agzs@yandex.ru",
+        "contact:phone": "+7 900 0450190;+7 922 2974993",
+        "contact:website": "https://ecogaz66.ru/",
+        "fuel:lpg": "yes",
+        "name": "Экогаз",
+        "opening_hours": "24/7",
+        "operator": "Экогаз"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.8309544,
+          56.7544969
+        ]
+      },
+      "id": "node/8065721276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8065729529",
+        "amenity": "fuel",
+        "contact:email": "ecogaz.agzs@yandex.ru",
+        "contact:phone": "+7 900 0450190;+7 922 2974993",
+        "contact:website": "https://ecogaz66.ru/",
+        "fuel:lpg": "yes",
+        "name": "Экогаз",
+        "opening_hours": "24/7",
+        "operator": "Экогаз"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6743437,
+          56.8317256
+        ]
+      },
+      "id": "node/8065729529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8273099203",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "ЭкоПромГаз"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5674881,
+          56.7508358
+        ]
+      },
+      "id": "node/8273099203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8370776399",
+        "amenity": "fuel",
+        "contact:email": "ecogaz.agzs@yandex.ru",
+        "contact:phone": "+7 900 0450190;+7 922 2974993",
+        "contact:website": "https://ecogaz66.ru/",
+        "fuel:lpg": "yes",
+        "name": "Экогаз",
+        "opening_hours": "24/7",
+        "operator": "Экогаз"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7234509,
+          56.7526778
+        ]
+      },
+      "id": "node/8370776399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8620800070",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "Gas66"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6279582,
+          56.9401783
+        ]
+      },
+      "id": "node/8620800070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8639241015",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "Gas66"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5939859,
+          56.8668862
+        ]
+      },
+      "id": "node/8639241015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8706534117",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "Экогаз"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5211732,
+          56.8807622
+        ]
+      },
+      "id": "node/8706534117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8725688122",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "РозТорГаз"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5970242,
+          56.798192
+        ]
+      },
+      "id": "node/8725688122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8725802966",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "GGroup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5645572,
+          56.858144
+        ]
+      },
+      "id": "node/8725802966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8725892177",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "GGroup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6079822,
+          56.7534992
+        ]
+      },
+      "id": "node/8725892177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8725895160",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "GGroup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7348234,
+          56.7860956
+        ]
+      },
+      "id": "node/8725895160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8725912310",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "GGroup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7682593,
+          56.8088688
+        ]
+      },
+      "id": "node/8725912310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8914247895",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "brand:wikidata": "Q1461799",
+        "brand:wikipedia": "ru:Газпром нефть",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "full_service": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "170",
+        "self_service": "yes",
+        "shop": "convenience",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5023363,
+          56.7936694
+        ]
+      },
+      "id": "node/8914247895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8933583332",
+        "amenity": "fuel",
+        "brand": "Башнефть",
+        "brand:en": "Bashneft",
+        "brand:wikidata": "Q809985",
+        "brand:wikipedia": "en:Bashneft",
+        "contact:phone": "+7 800 7757588",
+        "contact:website": "https://www.bashneft-azs.ru",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Башнефть",
+        "name:en": "Bashneft",
+        "name:ru": "Башнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Башнефть-Розница\"",
+        "ref": "66-012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5718796,
+          56.8529444
+        ]
+      },
+      "id": "node/8933583332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9709772472",
+        "amenity": "fuel",
+        "name": "Tamic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6315007,
+          56.7965104
+        ]
+      },
+      "id": "node/9709772472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9713547589",
+        "addr:city": "Екатеринбург",
+        "addr:housenumber": "1",
+        "addr:street": "Перспективная улица",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "brand:wikidata": "Q1461799",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "85"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5870929,
+          56.7237238
+        ]
+      },
+      "id": "node/9713547589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10026122104",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "Ggroup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5894989,
+          56.8570125
+        ]
+      },
+      "id": "node/10026122104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10124416384",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Tamic Energy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7385946,
+          56.7613465
+        ]
+      },
+      "id": "node/10124416384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10164832693",
+        "amenity": "fuel",
+        "brand": "Лукойл",
+        "brand:en": "Lukoil",
+        "brand:ru": "Лукойл",
+        "brand:wikidata": "Q329347",
+        "brand:wikipedia": "ru:Лукойл",
+        "compressed_air": "yes",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 343 3531545;+7 800 1000911;+7 912 2001296",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "owner": "ПАО \"Лукойл\"",
+        "ref": "40466404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5563605,
+          56.7660778
+        ]
+      },
+      "id": "node/10164832693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10164832711",
+        "amenity": "fuel",
+        "atm": "yes",
+        "brand": "Лукойл",
+        "brand:wikidata": "Q329347",
+        "brand:wikipedia": "ru:Лукойл",
+        "compressed_air": "yes",
+        "contact:email": "hotline@lukoil.com",
+        "contact:phone": "+7 800 1000911;+7 962 3102653",
+        "contact:website": "https://lukoil.ru/",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "internet_access": "wlan",
+        "name": "Лукойл",
+        "name:en": "Lukoil",
+        "name:ru": "Лукойл",
+        "opening_hours": "24/7",
+        "operator": "ООО \"ЛУКОЙЛ-Уралнефтепродукт\"",
+        "owner": "ПАО \"Лукойл\"",
+        "ref": "66453",
+        "shop": "yes",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5852325,
+          56.8688197
+        ]
+      },
+      "id": "node/10164832711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10801156433",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "GGroup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5459525,
+          56.7726213
+        ]
+      },
+      "id": "node/10801156433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10847869642",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Семь ключей"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5159435,
+          56.8744497
+        ]
+      },
+      "id": "node/10847869642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10882945590",
+        "amenity": "fuel",
+        "brand": "МЕГА",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "МЕГА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5800952,
+          56.7529748
+        ]
+      },
+      "id": "node/10882945590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11112419844",
+        "amenity": "fuel",
+        "fuel:lpg": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.8962645,
+          56.7685259
+        ]
+      },
+      "id": "node/11112419844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11304374723",
+        "amenity": "fuel",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5669021,
+          56.7510546
+        ]
+      },
+      "id": "node/11304374723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11397754006",
+        "amenity": "fuel",
+        "contact:email": "mail@caravan-oil.ru",
+        "contact:phone": "+7 343 3011000",
+        "contact:website": "https://caravan-oil.ru",
+        "name": "Caravan",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6943989,
+          56.8395219
+        ]
+      },
+      "id": "node/11397754006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11397754007",
+        "amenity": "fuel",
+        "contact:email": "mail@caravan-oil.ru",
+        "contact:phone": "+7 343 3011000;+7 343 3835590",
+        "contact:website": "https://caravan-oil.ru",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Caravan",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7911194,
+          56.8116155
+        ]
+      },
+      "id": "node/11397754007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11516274566",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "АГЗС"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5796613,
+          56.7529919
+        ]
+      },
+      "id": "node/11516274566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11531717365",
+        "amenity": "fuel",
+        "fuel:lpg": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6296237,
+          56.7867035
+        ]
+      },
+      "id": "node/11531717365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11677583316",
+        "amenity": "fuel",
+        "brand": "Varta",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "mobile": "+7 (343) 222-00-58",
+        "name": "Varta",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5566279,
+          56.8577404
+        ]
+      },
+      "id": "node/11677583316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11823940948",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Tamic Energy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5460569,
+          56.7726806
+        ]
+      },
+      "id": "node/11823940948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11924673707",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Tamic Energy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6327086,
+          56.7874015
+        ]
+      },
+      "id": "node/11924673707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11924673708",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "GGroup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6327563,
+          56.7872195
+        ]
+      },
+      "id": "node/11924673708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11977672148",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.4209075,
+          56.8930628
+        ]
+      },
+      "id": "node/11977672148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11977690401",
+        "amenity": "fuel",
+        "fuel:lpg": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.4111431,
+          56.8892634
+        ]
+      },
+      "id": "node/11977690401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12183875401",
+        "addr:housenumber": "90",
+        "addr:street": "улица Металлургов",
+        "amenity": "fuel",
+        "brand": "Башнефть",
+        "brand:wikidata": "Q809985",
+        "brand:wikipedia": "ru:Башнефть",
+        "contact:email": "hotline@rosneft.ru",
+        "contact:phone": "+7 800 7757588",
+        "contact:website": "https://www.bashneft-azs.ru",
+        "name": "Башнефть",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5011068,
+          56.8268121
+        ]
+      },
+      "id": "node/12183875401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12212358915",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "АГЗС"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6243234,
+          56.8167477
+        ]
+      },
+      "id": "node/12212358915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12312347771",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "BNP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5779658,
+          56.7477742
+        ]
+      },
+      "id": "node/12312347771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12418274888",
+        "amenity": "fuel",
+        "brand": "GGroup",
+        "fuel:lpg": "yes",
+        "name": "GGroup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6207482,
+          56.8535815
+        ]
+      },
+      "id": "node/12418274888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12418405283",
+        "amenity": "fuel",
+        "brand": "Tamic Energy",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5078358,
+          56.8850621
+        ]
+      },
+      "id": "node/12418405283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12419017251",
+        "amenity": "fuel",
+        "brand": "Tamic Energy",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Tamic Energy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6311121,
+          56.7728151
+        ]
+      },
+      "id": "node/12419017251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12419020834",
+        "amenity": "fuel",
+        "brand": "GGroup",
+        "fuel:lpg": "yes",
+        "name": "GGroup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6767972,
+          56.8687587
+        ]
+      },
+      "id": "node/12419020834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12774388711",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Oillab by Rcc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5111703,
+          56.8189707
+        ]
+      },
+      "id": "node/12774388711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12983542401",
+        "amenity": "fuel",
+        "name": "Башнефть"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7592923,
+          56.7557889
+        ]
+      },
+      "id": "node/12983542401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12983542501",
+        "amenity": "fuel",
+        "name": "Tamic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7557071,
+          56.7539209
+        ]
+      },
+      "id": "node/12983542501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12984245753",
+        "amenity": "fuel",
+        "brand": "Газпромнефть",
+        "brand:wikidata": "Q1461799",
+        "contact:phone": "+7 800 7005151",
+        "contact:website": "https://gpnbonus.ru/",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Газпромнефть",
+        "name:en": "Gazpromneft",
+        "name:ru": "Газпромнефть",
+        "opening_hours": "24/7",
+        "operator": "ООО \"Газпромнефть - Центр\"",
+        "ref": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6735621,
+          56.7568041
+        ]
+      },
+      "id": "node/12984245753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13111316097",
+        "amenity": "fuel",
+        "brand": "GGroup",
+        "fuel:lpg": "yes",
+        "name": "GGroup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5607529,
+          56.8458529
+        ]
+      },
+      "id": "node/13111316097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13111340424",
+        "amenity": "fuel",
+        "fuel:lpg": "yes",
+        "name": "АГЗС Caravan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.57809,
+          56.7481103
+        ]
+      },
+      "id": "node/13111340424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13264354102",
+        "amenity": "fuel",
+        "fuel:lpg": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5484558,
+          56.8819711
+        ]
+      },
+      "id": "node/13264354102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13443390721",
+        "amenity": "fuel",
+        "brand": "VARTA",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "VARTA",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5442743,
+          56.7707061
+        ]
+      },
+      "id": "node/13443390721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13922391801",
+        "amenity": "fuel",
+        "name": "АГЗС",
+        "opening_hours": "24/7",
+        "operator": "Ggroup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5030309,
+          56.794371
+        ]
+      },
+      "id": "node/13922391801"
+    }
+  ]
+}
