@@ -4,34 +4,41 @@ import core.District;
 import core.FuelStation;
 import core.FuelType;
 
+import java.io.PrintStream;
 import java.util.List;
-import java.util.Set;
-import java.util.stream.Collectors;
 
-public class ConsoleView implements View {
+public final class ConsoleView implements View {
+    private final PrintStream out;
+    public ConsoleView() {
+        this(System.out);
+    }
+    private <T> void showCollection(List<T> collection) {
+        for(int i = 0; i < collection.size(); ++i) {
+            var ou = String.format("%d) ", i) + collection.get(i).toString();
+            out.println(ou);
+        }
+    }
+    public ConsoleView(PrintStream o) {
+        out = o;
+    }
     @Override
     public void showMessage(String data) {
-        System.out.println(data);
+        out.println(data);
     }
 
     @Override
     public void showStations(List<FuelStation> stations) {
-        stations.stream()
-                .forEach(x -> System.out.println(x));
+        showCollection(stations);
     }
 
     @Override
     public void showDistricts(List<District> districts) {
-        districts.stream()
-                .forEach(x -> System.out.println(x));
+        showCollection(districts);
     }
 
     @Override
-    public void showFuelTypes(Set<FuelType> fuel) {
-        String fuels = fuel.stream()
-                .map(FuelType::toString)
-                .collect(Collectors.joining(", "));
-        System.out.println(fuels);
+    public void showFuelTypes(List<FuelType> fuel) {
+        showCollection(fuel);
     }
 
     @Override
@@ -43,23 +50,27 @@ public class ConsoleView implements View {
                 
                 Бот умеет фиксировать сообщения о конкретных АЗС.
                 Для этого выберете 2. Затем выберете нужный район и заправку.
-                Ответьте "+" если данный вид топлива в наличии, "-" если нет.
+                Ответьте "1" если данный вид топлива в наличии, "0" если нет.
                 
                 -1 для выхода
                 """;
-        System.out.println(info);
+        out.println(info);
     }
 
     @Override
-    public void showGreeting() {
-        String greeting = """
-                Добро пожаловать в OilBot Екатеринбурга!
+    public void showMenu() {
+        String menu = """
                 Введите цифру нужного действия
                  0 Вызвать справку
                  1 Проверить наличие топлива в районе
                  2 Сообщить о ситуации на АЗС
                 -1 Выйти
                 """;
-        System.out.println(greeting);
+        out.println(menu);
+    }
+
+    @Override
+    public void showGreeting() {
+        out.println("Добро пожаловать в OilBot Екатеринбурга!");
     }
 }

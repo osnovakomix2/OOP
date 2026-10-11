@@ -5,13 +5,13 @@ import core.FuelStation;
 import core.FuelType;
 
 import java.util.List;
-import java.util.Set;
 
 public interface View {
     void showMessage(String data);
     void showStations(List<FuelStation> stations);
     void showDistricts(List<District> districts);
-    void showFuelTypes(Set<FuelType> fuel);
+    void showFuelTypes(List<FuelType> fuel);
     void showInfo();
+    void showMenu();
     void showGreeting();
 }

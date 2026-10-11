@@ -10,6 +10,6 @@ public interface Storage {
     List<FuelStation> getAllStations();
     List<FuelStation> getStationsByDistrict(District district);
     FuelStation getStationById(int id);
-    void saveReport(UserReport report);
+    void saveReport(FuelStation station, UserReport report);
     UserReport getLastReport(FuelStation station);
 }
