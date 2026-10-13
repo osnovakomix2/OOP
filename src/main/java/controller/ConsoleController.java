@@ -48,7 +48,7 @@ public final class ConsoleController implements Controller{
         FuelType fuel = fuelTypes.get(readIntRange(0, fuelTypes.size() - 1));
         var searchedStation = model.findFuelInDistrict(district, fuel);
         if(searchedStation.isEmpty()) {
-            view.showMessage("К сожалению, в районе " + district + "заправки с топливом " + fuel + "не найдены.");
+            view.showMessage("К сожалению, в районе " + district + " заправки с топливом " + fuel + " не найдены.");
             view.showMessage("Возможно, топливо отсутствует или нет актуальной информации");
             sayTaskEnd();
             return;
