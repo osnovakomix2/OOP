@@ -13,16 +13,17 @@ public final class  FuelStationStorage implements Storage{
 
     public FuelStationStorage(List<FuelStation> cityStations) {
         stations = List.copyOf(cityStations);
-        stationsById = new HashMap<Integer, FuelStation>();
-        reportsByStationId = new HashMap<Integer, ArrayDeque<UserReport>>();
+        stationsById = new HashMap<>();
+        reportsByStationId = new HashMap<>();
         for(var st : stations) {
             if(stationsById.containsKey(st.id())) {
                 throw new RuntimeException("Duplicates have been detected in the data");
             }
-            reportsByStationId.put(st.id(), new ArrayDeque<UserReport>());
+            reportsByStationId.put(st.id(), new ArrayDeque<>());
             stationsById.put(st.id(), st);
         }
     }
+
     @Override
     public List<FuelStation> getAllStations() {
         return stations;
